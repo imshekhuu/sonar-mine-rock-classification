@@ -1,0 +1,11 @@
+[2026-01-31 12:34:41,942] INFO - Sonar Mine Predication
+[2026-01-31 12:34:41,942] INFO - Data preprocessing is started
+[2026-01-31 12:36:14,913] INFO - Sonar Mine Predication
+[2026-01-31 12:36:14,914] INFO - Data preprocessing is started
+[2026-01-31 12:39:03,225] INFO - Sonar Mine Predication
+[2026-01-31 12:39:03,225] INFO - Data preprocessing is started
+[2026-01-31 12:39:03,295] INFO - data preprocessing is completed
+[2026-01-31 12:39:03,296] INFO - model training is started
+[2026-01-31 12:39:03,339] INFO - model training is completed
+[2026-01-31 12:39:03,342] INFO - accuracy score: 0.7142857142857143
+[2026-01-31 12:39:03,343] INFO - pipeline completed with accuracy score 0.7142857142857143
